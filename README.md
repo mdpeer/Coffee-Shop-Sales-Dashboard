@@ -88,7 +88,7 @@ This dashboard transforms raw transactional data into actionable business insigh
 
 # 📷 Dashboard Preview
 
-![Coffee Shop Dashboard](coffee-shop-overview.png)
+![Coffee Shop Dashboard](coffee shop overview.png)
 
 ---
 
